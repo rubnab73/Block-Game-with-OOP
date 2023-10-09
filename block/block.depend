@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1695628623 source:c:\users\nabil\desktop\raylib project\block\main.cpp
+	<iostream>
+	<stdlib.h>
+	"raylib.h"
+	"game.h"
+	<fstream>
+
+1695460388 source:c:\users\nabil\desktop\raylib project\block\grid.cpp
+	<iostream>
+	"grid.h"
+	"colors.h"
+
+1696222391 c:\users\nabil\desktop\raylib project\block\grid.h
+	<vector>
+	"raylib.h"
+
+1695444021 source:c:\users\nabil\desktop\raylib project\block\position.cpp
+	"position.h"
+
+1695446670 c:\users\nabil\desktop\raylib project\block\position.h
+
+1695552799 source:c:\users\nabil\desktop\raylib project\block\colors.cpp
+	"colors.h"
+	<vector>
+
+1695444814 c:\users\nabil\desktop\raylib project\block\colors.h
+	"raylib.h"
+	<vector>
+
+1695622987 source:c:\users\nabil\desktop\raylib project\block\blocks.cpp
+	"block.h"
+	"position.h"
+
+1695623948 c:\users\nabil\desktop\raylib project\block\block.h
+	<vector>
+	<map>
+	"position.h"
+	"colors.h"
+
+1695622987 c:\users\nabil\desktop\raylib project\block\blocks.cpp
+	"block.h"
+	"position.h"
+
+1695469591 source:c:\users\nabil\desktop\raylib project\block\block.cpp
+	"block.h"
+	"position.h"
+
+1696222391 c:\users\nabil\desktop\raylib project\block\game.h
+	"grid.h"
+	"blocks.cpp"
+	<iostream>
+
+1695627849 source:c:\users\nabil\desktop\raylib project\block\game.cpp
+	"game.h"
+	<random>
+
